@@ -1,5 +1,9 @@
 **HOW TO DEPLOY :**
-⦁	Create the a new folder to insert the repositories
+
+
+⦁     Create the a new folder to insert the repositories
+
+
 ⦁	Execute it in new terminal
 ⦁	The code are present at my github repository
 ⦁	First of all you need to clone the repository to visual studio code using git ,the commands are :
